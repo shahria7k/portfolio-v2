@@ -473,6 +473,14 @@ h6 {
   text-align: right;
 }
 
+#email {
+  font-weight: lighter;
+  color: #fff;
+  font-size: 18px;
+}
+#email:hover {
+  text-decoration: none;
+}
 #media ul {
   list-style: none;
 }
