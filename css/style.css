@@ -419,10 +419,13 @@ h6 {
 }
 
 .info li {
+  padding-left: 20px;
+}
+
+.info li a {
   font-weight: lighter;
   color: #fff;
   font-size: 18px;
-  padding-left: 20px;
 }
 
 #fb::before {
@@ -431,7 +434,7 @@ h6 {
   border-radius: 100%;
   height: 4px;
   width: 4px;
-  margin-right: 6px;
+  margin-right: 1px;
   background: #3b5998;
 }
 
@@ -441,7 +444,7 @@ h6 {
   border-radius: 100%;
   height: 4px;
   width: 4px;
-  margin-right: 6px;
+  margin-right: 1px;
   background: #fcaf45;
 }
 
@@ -451,7 +454,7 @@ h6 {
   border-radius: 100%;
   height: 4px;
   width: 4px;
-  margin-right: 6px;
+  margin-right: 1px;
   background: #55acee;
 }
 
@@ -461,7 +464,7 @@ h6 {
   border-radius: 100%;
   height: 4px;
   width: 4px;
-  margin-right: 6px;
+  margin-right: 1px;
   background: #c4302b;
 }
 
